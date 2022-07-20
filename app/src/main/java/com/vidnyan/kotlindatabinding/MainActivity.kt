@@ -27,7 +27,6 @@ class MainActivity : AppCompatActivity() {
         binding.employeeData = employeeData
 
         println("this second commit for test")
-        println("this third commit for test")
 
     }
 }
