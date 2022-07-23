@@ -28,5 +28,7 @@ class MainActivity : AppCompatActivity() {
 
         println("this second commit for test")
 
+        println("this is master branch")
+
     }
 }
