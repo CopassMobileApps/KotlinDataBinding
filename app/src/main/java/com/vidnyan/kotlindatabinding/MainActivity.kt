@@ -8,6 +8,7 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import com.vidnyan.kotlindatabinding.databinding.ActivityMainBinding
 
+
 class MainActivity : AppCompatActivity() {
 
     lateinit var binding: ActivityMainBinding
@@ -27,6 +28,9 @@ class MainActivity : AppCompatActivity() {
         binding.employeeData = employeeData
 
         println("this second commit for test")
+        println("this is not master branch")
+
+        println("this will be used to merge in master")
 
         println("this is master branch")
 
