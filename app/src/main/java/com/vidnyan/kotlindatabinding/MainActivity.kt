@@ -31,6 +31,9 @@ class MainActivity : AppCompatActivity() {
         println("this is not master branch")
 
         println("this will be used to merge in master")
+        println("this is master branch")
+
+
         println("this is vidnyan branch")
     }
 }
